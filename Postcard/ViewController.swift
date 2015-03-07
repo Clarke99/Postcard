@@ -13,8 +13,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var messagelabel: UILabel!
     @IBOutlet weak var enternametextfield: UITextField!
     @IBOutlet weak var entermessagetextfield: UITextField!
-    
-    
+
+// test comment
     
     
     override func viewDidLoad() {
